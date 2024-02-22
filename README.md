@@ -63,10 +63,3 @@ Coding for the music recommender project began on February 10th and is still on 
 While developing the Flair Vibes Tailor, I discovered that creating and maintaining a large music dataset which would have tons of songs with different audio features to be used for generating recommendations, was not practical for me as doing so was beyond my means and that it would be more efficient to use a live dataset that updates in real-time. Due to the fact that I had no knowledge of data science prior to development of the flair vibes tailor, I struggled with using any filtering technique like alternating least squares. This prompted me to find other solutions and I decided to circumvent the challenges by creating a web application that interacts with Spotify's API. This way, I was able to get a live and well maintained dataset, consisting of all the songs available on Spotify and I had access to their audio features. Using Spotify's API, I also had access to an endpoint that uses a combination of collaborative filtering as well as content-based filtering for recommendations as opposed to solely using collaborative filtering with alternating least squares which I found difficult to implement.
 
 To implement this solution, I had to learn how to interact with the Spotify API and integrate it into the Flair Vibes Tailor. I spent several hours reading through documentation, watching YouTube videos, experimenting with different techniques, and troubleshooting errors. Eventually, I was able to successfully integrate the Spotify API into the application, and the result was a more efficient and accurate recommendation system.
-
-
-
-
-# Author
-Chukwuemelie 'Jason Flair' Obumse. Email - emelieobumse100@gmail.com, Twitter handle - <a href="https://twitter.com/wfmjson" target="_blank"> My Twitter</a>
-
